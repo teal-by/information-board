@@ -1,7 +1,7 @@
 ## Информационная доска сообщества "Белорусская бирюза"
 *(Проект в стадии разработки)*
 
-- [Что вообще такое "Бирюза"?](https://github.com/teal-by/information-board/blob/main/what-is-teal.md)
-- [Зачем я здесь (что я могу получить)?](https://github.com/teal-by/information-board/blob/main/why-i-am-here.md)
-- Правила + ценности сообщества
+- [Что вообще такое "Бирюза"?](what-is-teal.md)
+- [Зачем я здесь (что я могу получить)?](why-i-am-here.md)
+- [Правила + ценности сообщества](rules-and-values.md)
 - Структура сообщества, роли и люди
