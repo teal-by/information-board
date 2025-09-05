@@ -2,5 +2,5 @@
 
 - [Что такое "Бирюза"?](/pages/teal-is.md)
 - [Зачем я здесь? Что я могу получить?](/pages/why-am-i-here.md)
-- [Правила сообщества](/pages/rules.md)
 - [Структура сообщества, люди и роли](/pages/structure-people-roles.md)
+- [Правила сообщества](/pages/rules.md)
